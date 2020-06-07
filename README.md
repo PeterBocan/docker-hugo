@@ -1,2 +1,5 @@
 # docker-hugo
-Dockerfile definition for Hugo (https://gohugo.io)
+
+This is (currently an *experimental*) version of [Hugo](https://gohugo.io).
+
+**THIS DOCKER IMAGE IS EXPERIMENTAL/ALPHA STAGE**
